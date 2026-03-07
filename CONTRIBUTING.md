@@ -3,6 +3,7 @@
 ## İçerik Ekleme Adımları
 
 
+1. Projeye bir fork atın.
 1. İlgili kategori klasörüne giderek yeni `.md` dosyanızı oluşturun veya mevcut bir dosyayı güncelleyin.
 2. Değişikliklerinizi commit'leyin (Aşağıdaki commit standartlarına göz atın).
 3. `main` dalına bir **Pull Request (PR)** açın.
