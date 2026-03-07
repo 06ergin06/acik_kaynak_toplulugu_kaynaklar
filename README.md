@@ -4,5 +4,5 @@
 ## Bölümler
 - [Linux](Linux/README.md)
 - [Özgür ve Açık Kaynak Yazılımlar](FOSS/Ofis.md)
-- [Okunası blog/makeleler](Blog/README.md)
-- [İzlenesi videolar](Video/README.md)
+- [Okunası blog/makele/kitaplar](Okumalık/README.md)
+- [İzlenesi videolar](İzlemelik/README.md)
