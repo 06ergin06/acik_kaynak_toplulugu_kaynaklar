@@ -11,7 +11,9 @@
 - [Linux ve Pardus Komut Satırı Eğitimi- Hamdi Murat Yıldırım](https://uzem.pardus.org.tr/enrol/index.php?id=26)
 - [Pardus'a Uygulama Geliştirme Eğitimi - Emin Fedar](https://uzem.pardus.org.tr/enrol/index.php?id=23)
 
-# Gömülü Linux
-### Gömülü Dünya (Oğuzhan Çağlar)
-- [Gömülü Linux Sistem Geliştirme Blog Serisi](https://oguzhancaglartech.substack.com/p/gomulu-linux-sistem-gelistirme-bolum)
+
+
+# Gömülü Yazılım 
+
+- [Gömülü Yazılım Eğitim Kılavuzları](gomulu-yazilim-egitim-kilavuzlari.md)
 
